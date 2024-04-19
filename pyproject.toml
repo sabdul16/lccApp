@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "lcc-projectfinal"
+version = "0.1.0"
+description = ""
+authors = ["Sabdul <sabdul.ruet@gmail.com>"]
+readme = "README.md"
+packages = [{include = "lcc_projectfinal"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+django = "^4.2.2"
+pillow = "^9.5.0"
+requests = "^2.31.0"scikit-image = "^0.21.0"
+numpy = "^1.25.0"
+djangorestframework = "^3.14.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

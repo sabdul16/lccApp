@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "poetry add django pillow"
+version = "1.5.0"
+description = "A django application for LCC image matcher using skimage"
+authors = ["sabdul <sabdul.ruet@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+django = "^4.2.2"
+pillow = "^9.5.0"
+requests = "^2.31.0"
+scikit-image = "^0.21.0"
+numpy = "^1.25.0"
+djangorestframework = "^3.14.0"
+mysqlclient = "^2.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

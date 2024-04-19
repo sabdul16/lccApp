@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c9369ecd-37f5-46f5-ad92-f63f6fe62133" name="Changes" comment="compare_images.py is updated with red and blue check respect to green">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale1/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale1/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale1/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale1/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale1/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale1/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale1/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale2/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale2/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale2/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale2/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale2/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale2/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale3/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale3/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale3/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale3/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale3/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Scale3/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Screenshot 2024-04-19 200053.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Screenshot 2024-04-19 200316.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Images/Screenshot 2024-04-19 200335.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input Images/input9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_matcher/Color1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_matcher/Color2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_matcher/Color3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_matcher/Color4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_matcher/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_matcher/load_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_matcher/load_images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_matcher/media/images/Color1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_matcher/media/images/Color2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_matcher/media/images/Color3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_matcher/media/images/Color4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="4aca05e1-d7a9-4c8c-a041-566a4d0dfb81" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2RL6o9HHmcOfMUdnOwjKzweitpF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "G:/LCC_ProjectFinalImage",
+    "settings.editor.selected.configurable": "configurable.group.project"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\LCC_ProjectFinal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\LCC_ProjectFinal\image_matcher\media\images" />
+      <recent name="G:\LCC_ProjectFinal\image_matcher\image_app\templates" />
+      <recent name="G:\LCC_ProjectFinalImage" />
+      <recent name="G:\LCC_ProjectFinal\image_matcher" />
+      <recent name="G:\LCC_ProjectFinal\image_matcher\image_matcher" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.load_images">
+    <configuration name="Image" type="PythonConfigurationType" factoryName="Python">
+      <module name="LCC_ProjectFinal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\HP\AppData\Local\pypoetry\Cache\virtualenvs\lcc-projectfinal-sgUEgBmi-py3.10\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Poetry (LCC_ProjectFinal)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image_matcher" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_matcher/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="load_images" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LCC_ProjectFinal" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/image_matcher" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_matcher/load_images.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.load_images" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9369ecd-37f5-46f5-ad92-f63f6fe62133" name="Changes" comment="" />
+      <created>1687017186867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687017186867</updated>
+    </task>
+    <task id="LOCAL-00001" summary="compare_images.py is updated with red and blue check respect to green">
+      <created>1713537787340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713537787340</updated>
+    </task>
+    <task id="LOCAL-00002" summary="compare_images.py is updated with red and blue check respect to green">
+      <created>1713538032765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713538032765</updated>
+    </task>
+    <task id="LOCAL-00003" summary="compare_images.py is updated with red and blue check respect to green">
+      <created>1713538085495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713538085495</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="compare_images.py is updated with red and blue check respect to green" />
+    <option name="LAST_COMMIT_MESSAGE" value="compare_images.py is updated with red and blue check respect to green" />
+  </component>
+</project>

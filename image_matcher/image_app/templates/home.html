@@ -1,0 +1,70 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Leaf Color Chart</title>
+     <style>
+        .image-container {
+            display: flex;
+        }
+
+        .image-container img {
+            max-width: 220px;
+            height: auto;
+            margin-right: 10px;
+        }
+
+        .image-container figcaption {
+            text-align: center;
+        }
+
+        .form-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+        .form-container input[type="file"] {
+            margin-bottom: 10px;
+        }
+
+        .form-container button[type="submit"] {
+            padding: 10px 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1 align = 'center'>4 Leaf Color Charts</h1>
+    <h2 align = 'center'>Please Input (width x height) = (480 X 640) Image to get Best Result</h2>
+    <div class="image-container">
+    {% for image in images %}
+    <figure>
+        <img src="{{ image.image.url }}" alt="Image {{ image.index }}">
+        <figcaption>Color {{ image.index }}</figcaption>
+    </figure>
+    {% endfor %}
+    </div>
+
+    {% if index == 'Not Green Leaf' %}
+    <div>
+        <p align="center"> Please Enter Real Green Leaf Image</p>
+    </div>
+    {% endif %}
+
+    {% if index != 'Not Green Leaf' %}
+    <div>
+        <p align = "center">Your input image is matched with: Color {{ index }}</p>
+    </div>
+    {% endif %}
+
+    <div class="form-container">
+        <form method="POST" action="{% url 'home' %}" enctype="multipart/form-data">
+            {% csrf_token %}
+            <input type="file" name="image" accept="image/*" required>
+            <button type="submit">Upload</button>
+        </form>
+    </div>
+</body>
+</html>
