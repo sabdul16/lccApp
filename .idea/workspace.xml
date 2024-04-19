@@ -4,57 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9369ecd-37f5-46f5-ad92-f63f6fe62133" name="Changes" comment="compare_images.py is updated with red and blue check respect to green">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale1/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale1/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale1/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale1/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale1/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale1/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale1/7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale2/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale2/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale2/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale2/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale2/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale2/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale3/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale3/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale3/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale3/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale3/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Scale3/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Screenshot 2024-04-19 200053.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Screenshot 2024-04-19 200316.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Images/Screenshot 2024-04-19 200335.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Input Images/input9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matcher/Color1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matcher/Color2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matcher/Color3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matcher/Color4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matcher/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matcher/load_images.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_matcher/load_images.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matcher/media/images/Color1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matcher/media/images/Color2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matcher/media/images/Color3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_matcher/media/images/Color4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-    </list>
+    <list default="true" id="c9369ecd-37f5-46f5-ad92-f63f6fe62133" name="Changes" comment="compare_images.py is updated with red and blue check respect to green" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
